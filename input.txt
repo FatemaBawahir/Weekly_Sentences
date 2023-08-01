@@ -1,0 +1,308 @@
+"#rAma acCA hE.
+rAma,acCA_1,hE_1-pres
+1,2,3
+per,,
+[m sg a],,
+3:k1,3:k1s,0:main
+,,
+,,
+,,
+affirmative
+"
+"#राजा ने मंत्री को अपने पुत्र का अभिभावक बना दिया।
+rAjA_1,maMwrI_1,apanA,puwra_1,aBiBAvaka_1,banA_1-yA_1
+1,2,3,4,5,6
+anim,anim,,anim,anim,
+[m sg a],[m sg a],[- sg u],[m sg a],[m sg a],
+6:k1,6:k2s,4:r6,5:r6,6:k2,0:main
+,,1:coref,,,
+def,def,,,,[shade:xe]
+,,,,,
+affirmative"
+"#rAma acCA doYktara hE.
+rAma,acCA_1,doYktara_1,hE_1-pres
+1,2,3,4
+per,,,
+[m sg a],,[- sg a],
+4:k1,3:mod,4:k1s,0:main
+,,,
+,,,
+,,,
+affirmative
+"
+"#राम के द्वारा खाया गया फल मीठा था।
+rAma,KA_1,Pala_1,mITA_1,hE_1-past
+1,2,3,4,5
+per,,,,
+[m sg a],,[- sg a],,
+2:k1,3:rbks,5:k1,5:k1s,0:main
+,,,,
+,,def,,
+,,,,
+affirmative"
+"#BAgawe hue Sera ko xeKo.
+BAga_8,Sera_1,xeKa_3-o_1
+1,2,3
+,,
+,[- sg a],
+2:rvks,3:k2,0:main
+,,
+,def,
+,,
+imperative"
+"#rAma ke vana jAne para sIwA anusaraNa karawI hE.
+rAma,vana_2,jA_1,sIwA,anusaraNa+kara_1-wA_hE_1
+1,2,3,4,5
+per,,,per,
+[m sg a],[- sg a],,[f sg a],
+3:k1,3:k2p,5:rblsk,5:k1,0:main
+,,,,
+,def,,,
+,,,,
+affirmative
+"
+"#rAma ke vana jAne para xaSaraWa mara gaye.
+rAma,vana_2,jA_3,xaSaraWa,mara_5-yA_1
+1,2,3,4,5
+per,,,per,
+[m sg a],[- sg a],,[m sg a],
+3:k1,3:k2p,5:rblpk,5:k1,0:main
+,,,,
+,def,,,
+,,,,
+affirmative"
+"#gAyoM ke xuhane se pahale rAma gayA.
+gAya_1,xuha_4,rAma,jA_1-yA_1
+1,2,3,4
+anim,,per,
+[f pl a],,[m sg a],
+2:k2,4:rblak,4:k1,0:main
+,,,
+def,,,
+,,,
+pass-affirmative"
+"#राम खाना खा कर स्कूल गया।
+rAma,KAnA_1,KA_1,skUla_1,jA_1-yA_1
+1,2,3,4,5
+per,mass,,,
+[m sg a],[- sg a],,[- sg a],
+5:k1,3:k2,5:rpk,5:k2p,0:main
+,,,,
+,,,,
+,,,,
+affirmative"
+"#BAgawe hue Sera ko xeKo.
+BAga_8,Sera_1,xeKa_3-o_1
+1,2,3
+,,
+,[- sg a],
+3:rsk,3:k2,0:main
+,,
+,def,
+,,
+imperative"
+"#kAra Gara ke pAsa hE.
+kAra_1,Gara_2,pAsa_2,hE_1-pres
+1,2,3,4
+,,,
+[- sg a],[- sg a],,
+4:k1,3:rdl,4:k7p,0:main
+,,,
+def,def,,
+,,,
+affirmative"
+"#sUryoxaya ke bAxa gAdZI Ayi.
+sUryoxaya_1,bAxa_1,gAdZI_6,A_1-yA_1
+1,2,3,4
+,,,
+,,[- sg a],
+2:rkl,4:k7t,4:k1,0:main
+,,,
+def,,def,
+,,,
+affirmative
+"
+"#Sera ne yuxXa ke liye jaMgala meM saBA bulAI.
+Sera_1,yuxXa_1,jaMgala_1,saBA_3,bulA_1-yA_1
+1,2,3,4,5
+anim,,,,
+[m sg a],[- sg a],[- sg a],[- sg a],
+5:k1,5:rt,5:k7p,5:k2,0:main
+,,,,
+def,def,def,def,
+,,,,
+affirmative"
+"#हरी सब्जियां खाने से सेहत अच्छी होती है।
+harA_1,sabjI_1,KA_1,sehawa_1,acCA_1,ho_1-wA_hE_1
+1,2,3,4,5,6
+,,,,,
+,[- pl a],,[- sg a],,
+2:mod,3:k2,6:rh,6:k1,6:k2,0:main
+,,,,,
+,,,,,
+,,,,,
+affirmative"
+"#दूरी, दिशा और प्रतीक मानचित्र के तीन घटक हैं
+xUrI_1,xiSA_1,prawIka_1,mAnaciwra_1,wIna_1,Gataka_2,hE_1-pres
+1,2,3,4,5,6,7
+,,,,,,
+[- sg a],[- sg a],[- sg a],[- sg a],,[- sg a],
+6:re,6:re,6:re,6:r6,6:card,7:k1,0:main
+,,,,,,
+,,,,,,
+,,,,,,
+affirmative
+conj:[1,2,3]"
+"#हमारा शरीर एक रेडियो है |
+speaker,SarIra_1,rediyo_1,hE_1-pres
+1,2,3,4
+anim,,,
+[- pl u],[- sg a],[- sg a],
+2:r6,4:k1,4:k1s,0:main
+,,,
+,,,
+,,,,
+affirmative
+"
+"#rAma ke pAsa WodZA pAnI hE.
+rAma,WodZA_2,pAnI_1,hE_2-pres
+1,2,3,4
+per,,mass,
+[m sg a],,[- sg a],
+3:rsm,3:quant,4:k1,0:main
+,,,
+,,,
+,,,
+affirmative"
+"#rAma ke pAsa sIwA kI eka suMxara kalama hE.
+rAma,sIwA,suMxara_1,kalama_1,hE_2-pres
+1,2,3,4,5
+per,per,,,
+[m sg a],[f sg a],,[- sg a],
+4:rsma,4:r6,4:mod,5:k1,0:main
+,,,,
+,,,,
+,,,,
+affirmative"
+"#राजा का पुत्र छोटा था।
+rAjA_1,puwra_1,CotA_1,hE_1-past
+1,2,3,4
+anim,anim,,
+[- sg a],[- sg a],,
+2:rhh,4:k1,4:k1s,0:main
+,,,
+def,def,,
+,,,
+affirmative"
+"#गुलाब जैसे फूल पानी में नहीं उगते।
+gulAba_1,PUla_1,pAnI_1,nahIM_1,uga_1-wA_hE_1
+1,2,3,4,5
+,,mass,,
+[- pl a],[- pl a],[- - a],,
+2:ru,5:k1,5:k7p,5:neg,0:main
+,,,,
+,,,,
+,,,,
+negative "
+"#राम से अधिक बुद्धिमान मोहन है।
+rAma,buxXimAna_1,mohana,hE_1-pres
+1,2,3,4
+per,,per,
+[m sg a],[comper_more],[m sg a],
+3:rv,4:k1,4:k1s,0:main
+,,,
+,,,
+,,,
+affirmative"
+"#मनुष्यों में क्षत्रिय शूरतम होते हैं।
+manuRya_1,kRwriya,SUra_1, ho_1-wA_hE_1
+1,2,3,4
+anim,,,
+[- pl a],[- pl a],[- sg a][superl],
+2:rn,4:k1,4:k1s,0:main
+,,,
+,,,
+,,,
+affirmative "
+"#sIwA gAzva kI ora jA rahI WI.
+sIwA,gAzva_1,jA_1-0_rahA_WA_1
+1,2,3
+per,,
+[f sg a],[- sg a],
+3:k1,3:rd,0:main
+,,
+,def,
+,,
+affirmative"
+"#राम ने तेज़ी से बॉल फेंकी।
+rAma,wejZI+se_1,bOYla_1,PeMkA_1-yA_1
+1,2,3,4
+per,,,
+[m sg a],,[- sg a],
+4:k1,4:krvn,4:k2,0:main
+,,,
+,,def,
+,,,
+affirmative"
+"#मैं घर नहीं जाऊंगी।
+speaker,Gara_1,nahIM_1,jA_1-gA_1
+1,2,3,4
+anim,,,
+[- sg u],[- sg a],,
+4:k1,4:k2p,4:neg,0:main
+,,,
+,,,
+,,,
+negative"
+"#Sera usa jAla meM PaMsa gayA.
+Sera_1,vaha_1,jAla_1,Pazsa_12-yA_1
+1,2,3,4
+anim,,,
+[m sg a],,[- sg a],
+4:k1,3:dem,4:k7p,0:main
+,,,
+def,,,[shade:jA_1]
+,,,
+affirmative"
+"#rAma xo kiwAbeM paDa rahA hE.
+rAma,xo_1,kiwAba_1,paDa_1-0_rahA_hE_1
+1,2,3,4
+per,,,
+[m sg a],,[- pl a],
+4:k1,3:card,4:k2,0:main
+,,,
+,,,
+,,,
+affirmative
+"
+"#mEMne pahalI kiwAba paDI.
+speaker,pahalA_1,kiwAba_1,paDa_1-yA_1
+1,2,3,4
+anim,,,
+[m sg u],,[- sg a],
+4:k1,3:ord,4:k2,0:main
+,,,
+,,def,
+,,,
+affirmative
+"
+"#अनेक औद्योगिक भवनों की छतें उड़ गईं ।
+aneka_1,Oxyogika_1,Bavana_1,Cawa_1,udZa_1-yA_1
+1,2,3,4,5
+,,,,
+,,[- pl a],[- pl a],
+3:quant,3:mod,4:r6,5:k1,0:main
+,,,,
+,,,,[shade:jA_1]
+,,,,
+affirmative"
+"#Sera bahuwa pareSAna ho gayA.
+Sera_1, bahuwa_7, pareSAna_1,ho_1-yA_1
+1,2,3,4
+anim,,,
+[m sg a],,,
+4:k1,3:intf,4:k1s,0:main
+,,,
+def,,,[shade:jA_1]
+,,,
+affirmative"
