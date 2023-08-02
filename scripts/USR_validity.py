@@ -3,7 +3,7 @@ import re
 
 USR_row_info = ['root_words', 'index_data', 'seman_data', 'gnp_data', 'depend_data', 'discourse_data', 'spkview_data',
                 'scope_data']
-OUTPUT_FILE = 'USR_validity_report.csv'  # temporary for presenting
+OUTPUT_FILE = '../input_output/USR_validity_report.csv'  # temporary for presenting
 
 def log(msg, logtype='OK'):
     '''Generates log message in predefined format.'''

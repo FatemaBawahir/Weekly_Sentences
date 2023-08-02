@@ -1,9 +1,12 @@
 #!/bin/sh
 
 # Copy all the USRs to input.txt
-input_file="../input.txt"
+input_file="../input_output/input.txt"
 # Edit name of the output_folder as per choice
 output_folder="../weekly_sentences/week3"
+OUTPUT_FILE="../input_output/USR_validity_report.csv"
+## flush contents of USR_validity_report.csv
+cat /dev/null > "$OUTPUT_FILE"
 
 # Check if the output_folder exists, if not, create it
 if [ ! -d "$output_folder" ]; then
