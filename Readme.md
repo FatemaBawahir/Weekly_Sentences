@@ -1,4 +1,4 @@
-## Assumption for USR validity##
+## Assumption for USR validity ##
 1. The number of concepts in the (concept row) USR are correct and thus our base of evaluation
 
 ## Features covered For USR validity ##
